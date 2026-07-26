@@ -1,0 +1,126 @@
+{
+  "personal": {
+    "name": "Saurabh N",
+    "title": "Node.js Backend Developer",
+    "email": "saurabhneel9999@gmail.com",
+    "phone": "+91-8475928681",
+    "location": "Noida, Uttar Pradesh, India",
+    "experience": "4+ Years",
+    "summary": "Backend Developer with 4+ years of experience in designing and developing scalable backend applications using Node.js, JavaScript, TypeScript, Express.js, MongoDB, and MySQL. Experienced in building RESTful APIs, microservices, blockchain integrations, enterprise data APIs, and cloud-based applications."
+  },
+
+  "skills": {
+    "programmingLanguages": ["JavaScript", "TypeScript", "Java"],
+
+    "backendTechnologies": ["Node.js", "Express.js"],
+
+    "frontendTechnologies": [
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+
+    "databases": ["MongoDB", "MySQL"],
+
+    "architecture": [
+      "Monolithic Architecture",
+      "Microservices Architecture",
+      "Object-Oriented Programming"
+    ],
+
+    "cloud": ["AWS S3", "AWS EC2"],
+
+    "versionControl": ["GitHub", "SVN"],
+
+    "tools": ["Postman", "JIRA", "Git"],
+
+    "methodologies": ["Agile", "Scrum"]
+  },
+
+  "experience": [
+    {
+      "company": "Neuvays Pro Technologies Pvt. Ltd.",
+      "designation": "Software Engineer",
+      "duration": "December 2023 - March 2026",
+      "location": "Uttar Pradesh, India",
+      "responsibilities": [
+        "Designed and developed scalable backend features using Node.js, JavaScript (ES6+) and TypeScript.",
+        "Built and optimized RESTful APIs for microservices and frontend applications.",
+        "Optimized MongoDB and MySQL queries for better performance.",
+        "Resolved performance bottlenecks and improved application scalability.",
+        "Worked with Product, QA and Design teams.",
+        "Used GitHub and CI/CD pipelines for deployment."
+      ]
+    },
+    {
+      "company": "Chetu India Pvt. Ltd.",
+      "designation": "Software Engineer",
+      "duration": "November 2021 - August 2023",
+      "location": "Noida, Uttar Pradesh",
+      "responsibilities": [
+        "Developed Node.js backend applications.",
+        "Built secure REST APIs.",
+        "Worked with MongoDB and MySQL.",
+        "Integrated AWS S3.",
+        "Worked in Agile Scrum environment using JIRA.",
+        "Collaborated with frontend developers."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Centrient IDMX",
+      "company": "Neuvays Pro Technologies Pvt. Ltd.",
+      "technologies": [
+        "Node.js",
+        "TypeScript",
+        "Express.js",
+        "MongoDB",
+        "MySQL",
+        "OData",
+        "GitLab CI/CD"
+      ],
+      "description": "Enterprise backend platform with scalable microservices, real-time synchronization using OData APIs and optimized database architecture."
+    },
+    {
+      "name": "TheGoodWoo",
+      "company": "Chetu India Pvt. Ltd.",
+      "technologies": [
+        "Node.js",
+        "MongoDB",
+        "Polygon Blockchain",
+        "JWT",
+        "AWS S3",
+        "Authorize.net"
+      ],
+      "description": "NFT marketplace supporting minting, listing, purchasing, secure payments and blockchain integration."
+    },
+    {
+      "name": "DFS-Mafia",
+      "company": "Chetu India Pvt. Ltd.",
+      "technologies": [
+        "Node.js",
+        "MongoDB",
+        "Binance Smart Chain",
+        "NFT",
+        "JWT"
+      ],
+      "description": "NFT gaming platform with wallet authentication, blockchain APIs and cryptocurrency transactions."
+    }
+  ],
+
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "university": "Chaudhary Charan Singh University",
+    "location": "Meerut, Uttar Pradesh",
+    "year": "2022"
+  },
+
+  "socials": {
+    "github": "https://github.com/saurabhneel",
+    "linkedin": "https://linkedin.com/in/saurabh-neel"
+  }
+}
